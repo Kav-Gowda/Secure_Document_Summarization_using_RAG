@@ -1,4 +1,4 @@
-# watsonx-rag-agent
+# Secure Document Summarization using RAG
 
 A **Retrieval-Augmented Generation (RAG)** agent that summarizes and answers questions over private documents using **IBM watsonx.ai**, **LangChain**, and **Llama 3.3**.  
 This project demonstrates how to build an intelligent assistant that retrieves, summarizes, and converses over confidential text — without exposing data to third parties.
